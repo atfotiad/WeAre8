@@ -91,6 +91,7 @@ fun FeedItem(
                         setShowRewindButton(false)
                         setShowSubtitleButton(false)
                         controllerAutoShow = false
+                        useController = false
 
                     }
                 }, modifier = Modifier.matchParentSize()
