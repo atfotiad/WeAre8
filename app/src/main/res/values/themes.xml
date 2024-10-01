@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeAre8" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorControlNormal">@android:color/secondary_text_light</item>
+    </style>
+</resources>
